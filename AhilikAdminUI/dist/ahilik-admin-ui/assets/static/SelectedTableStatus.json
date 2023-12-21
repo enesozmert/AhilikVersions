@@ -1,0 +1,7 @@
+{
+  "selectedTableStatus":[
+    { "label": "Tümü", "value": 0 },
+    { "label": "Aktif", "value": 1 },
+    { "label": "Pasif", "value": 2 }
+  ]
+}

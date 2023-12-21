@@ -1,0 +1,20 @@
+{
+  "TableFormNameStatic": [
+    {
+      "header": "Kullanıcı Adı",
+      "formControlName": "userNickName",
+      "field": "userNickName",
+      "type": "text",
+      "index": 1,
+      "visible": true
+    },
+    {
+      "header": "Yetki Adı",
+      "formControlName": "operationClaimName",
+      "field": "operationClaimName",
+      "type": "text",
+      "index": 2,
+      "visible": true
+    }
+  ]
+}

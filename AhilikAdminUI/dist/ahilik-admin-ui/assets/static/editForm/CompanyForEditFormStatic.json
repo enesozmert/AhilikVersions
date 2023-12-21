@@ -1,0 +1,22 @@
+{
+  "EditFormStatic": [
+    {
+      "label": "Şirket Adı",
+      "formControlName": "name",
+      "type": "text",
+      "index": 1,
+      "visible": true,
+      "validations":[
+        {
+          "name": "maxLength",
+          "value": "50",
+          "message": "50 karakter aşıldı"
+        },
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    }
+  ]
+}

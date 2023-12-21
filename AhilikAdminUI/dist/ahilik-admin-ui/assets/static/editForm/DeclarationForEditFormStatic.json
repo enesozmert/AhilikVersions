@@ -1,0 +1,46 @@
+{
+  "EditFormStatic": [
+    {
+      "label": "Şirket ID",
+      "formControlName": "companyId",
+      "type": "number",
+      "index": 1,
+      "validations": [
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    },
+    {
+      "label": "Açıklama",
+      "formControlName": "description",
+      "type": "text",
+      "index": 2,
+      "visible": true,
+      "validations": [
+        {
+          "name": "maxLength",
+          "value": "200",
+          "message": "200 karakter aşıldı"
+        },
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    },
+    {
+      "label": "Raporlayan Kullanıcı ID",
+      "formControlName": "reportingUserId",
+      "type": "number",
+      "index": 3,
+      "validations": [
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    }
+  ]
+}

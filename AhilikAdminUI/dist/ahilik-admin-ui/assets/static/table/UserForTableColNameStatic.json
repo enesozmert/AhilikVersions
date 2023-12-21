@@ -1,0 +1,46 @@
+{
+  "TableColNameStatic": [
+    {
+      "header": "Ad",
+      "field": "firstName",
+      "selectColumn": 2,
+      "minWidth": "130px"
+    },
+    {
+      "header": "Soyad",
+      "field": "lastName",
+      "selectColumn": 3,
+      "minWidth": "130px"
+    },
+    {
+      "header": "Kullanıcı Adı",
+      "field": "nickName",
+      "selectColumn": 4,
+      "minWidth": "200px"
+    },
+    {
+      "header": "E-Posta",
+      "field": "email",
+      "selectColumn": 5,
+      "minWidth": "250px"
+    },
+    {
+      "header": "Telefon",
+      "field": "phone",
+      "selectColumn": 6,
+      "minWidth": "150px"
+    },
+    {
+      "header": "Durum",
+      "field": "status",
+      "selectColumn": 7,
+      "minWidth": "90px"
+    },
+    {
+      "header": "Son İşlem Zamanı",
+      "field": "updateTime",
+      "selectColumn": -8,
+      "minWidth": "250px"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TableColNameStatic": [
+    {
+      "header": "Şirket Adı",
+      "field": "companyName",
+      "type": "text",
+      "selectColumn": 2,
+      "minWidth": "130px",
+      "colWidth": "0"
+    },
+    {
+      "header": "Açıklama",
+      "field": "description",
+      "type": "text",
+      "selectColumn": 3,
+      "minWidth": "150px",
+      "colWidth": "0"
+    },
+    {
+      "header": "Takma Ad",
+      "field": "nickName",
+      "type": "text",
+      "selectColumn": 4,
+      "minWidth": "120px",
+      "colWidth": "0"
+    },
+    {
+      "header": "Son İşlem Zamanı",
+      "field": "updateTime",
+      "type": "text",
+      "selectColumn": 5,
+      "minWidth": "150px",
+      "colWidth": "0"
+    },
+    {
+      "header": "Durum",
+      "field": "status",
+      "type": "text",
+      "selectColumn": 6,
+      "minWidth": "90px",
+      "colWidth": "0"
+    }
+  ]
+}

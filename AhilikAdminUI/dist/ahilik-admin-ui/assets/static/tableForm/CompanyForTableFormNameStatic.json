@@ -1,0 +1,28 @@
+{
+  "TableFormNameStatic": [
+    {
+      "header": "Ad",
+      "formControlName": "name",
+      "field": "name",
+      "type": "text",
+      "index": 0,
+      "visible": true
+    },
+    {
+      "header": "Son İşlem Zamanı",
+      "formControlName": "updateTime",
+      "field": "updateTime",
+      "type": "text",
+      "index": 1,
+      "visible": true
+    },
+    {
+      "header": "Durum",
+      "formControlName": "status",
+      "field": "status",
+      "type": "text",
+      "index": 2,
+      "visible": true
+    }
+  ]
+}

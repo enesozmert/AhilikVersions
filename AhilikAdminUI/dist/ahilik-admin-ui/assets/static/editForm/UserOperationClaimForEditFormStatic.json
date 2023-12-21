@@ -1,0 +1,30 @@
+{
+  "EditFormStatic": [
+    {
+      "label": "Kullanıcı Id",
+      "formControlName": "userId",
+      "type": "number",
+      "index": 1,
+      "visible": true,
+      "validations":[
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    },
+    {
+      "label": "Yetki Id",
+      "formControlName": "operationClaimId",
+      "type": "number",
+      "index": 2,
+      "visible": true,
+      "validations":[
+        {
+          "name": "required",
+          "message": "Bu alan zorunlu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "selectedTableRows":[
+    { "id": 1, "row": 5 },
+    { "id": 2, "row": 10 },
+    { "id": 3, "row": 20 },
+    { "id": 4, "row": 50 },
+    { "id": 5, "row": 100 }
+  ]
+}

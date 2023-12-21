@@ -1,0 +1,28 @@
+{
+  "TableFormNameStatic": [
+    {
+      "header": "Ad",
+      "formControlName": "name",
+      "field": "name",
+      "type": "text",
+      "index": 0,
+      "visible": true
+    },
+    {
+      "header": "Genişletişmiş Sayısal Ad",
+      "formControlName": "explanation",
+      "field": "explanation",
+      "type": "number",
+      "index": 1,
+      "visible": true
+    },
+    {
+      "header": "Açıklama",
+      "formControlName": "description",
+      "field": "description",
+      "type": "text",
+      "index": 2,
+      "visible": true
+    }
+  ]
+}

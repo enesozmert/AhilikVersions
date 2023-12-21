@@ -1,0 +1,28 @@
+{
+  "TableColNameStatic": [
+    {
+      "header": "Ad",
+      "field": "name",
+      "type": "text",
+      "selectColumn": 2,
+      "minWidth": "130px",
+      "colWidth":"0"
+    },
+    {
+      "header": "Son İşlem Zamanı",
+      "field": "updateTime",
+      "type": "text",
+      "selectColumn": 3,
+      "minWidth": "150px",
+      "colWidth":"0"
+    },
+    {
+      "header": "Durum",
+      "field": "status",
+      "type": "text",
+      "selectColumn": 4,
+      "minWidth": "90px",
+      "colWidth":"0"
+    }
+  ]
+}

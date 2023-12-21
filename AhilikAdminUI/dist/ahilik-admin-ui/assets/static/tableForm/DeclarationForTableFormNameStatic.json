@@ -1,0 +1,44 @@
+{
+  "TableFormNameStatic": [
+    {
+      "header": "Şirket Adı",
+      "formControlName": "companyName",
+      "field": "companyName",
+      "type": "text",
+      "index": 0,
+      "visible": true
+    },
+    {
+      "header": "Açıklama",
+      "formControlName": "description",
+      "field": "description",
+      "type": "text",
+      "index": 1,
+      "visible": true
+    },
+    {
+      "header": "Takma Ad",
+      "formControlName": "nickName",
+      "field": "nickName",
+      "type": "text",
+      "index": 2,
+      "visible": true
+    },
+    {
+      "header": "Son İşlem Zamanı",
+      "formControlName": "updateTime",
+      "field": "updateTime",
+      "type": "text",
+      "index": 3,
+      "visible": true
+    },
+    {
+      "header": "Durum",
+      "formControlName": "status",
+      "field": "status",
+      "type": "text",
+      "index": 4,
+      "visible": true
+    }
+  ]
+}

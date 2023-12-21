@@ -1,0 +1,20 @@
+{
+  "TableColNameStatic": [
+    {
+      "header": "Kullanıcı Adı",
+      "field": "userNickName",
+      "type": "text",
+      "selectColumn": 2,
+      "minWidth": "150px",
+      "colWidth":"0"
+    },
+    {
+      "header": "Yetki Adı",
+      "field": "operationClaimName",
+      "type": "text",
+      "selectColumn": 3,
+      "minWidth": "90px",
+      "colWidth":"0"
+    }
+  ]
+}
