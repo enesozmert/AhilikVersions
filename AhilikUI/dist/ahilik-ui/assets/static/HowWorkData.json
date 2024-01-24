@@ -1,0 +1,19 @@
+{
+  "HowWorkData" : [
+    {
+        "title":"Kayıt ol & Giriş yap",
+        "subText":"Ahilik’e üye olun ve bilgileriniz anında onaylansın.",
+        "icon":"pi pi-user"
+    },
+    {
+        "title":"Ahilik Sistemini Keşfet",
+        "subText":"Ahilik içerisindeki kuruluş özelliğini keşfedin ve kullanmaya başlayın.",
+        "icon":"pi pi-search"
+    },
+    {
+        "title":"Kuruluş bul && Değerlendir",
+        "subText":"Kendi profilinizi oluşturun ve kuruluşları değerlendirin.",
+        "icon":"pi pi-star"
+    }
+  ]
+}
